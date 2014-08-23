@@ -2,7 +2,7 @@ var server=  require ("./control/server");
 var route=  require ("./control/router");
 var requestHandle= require("./control/requestHandlers");
 
-//构建路由映射表     a
+//构建路由映射表
 var handle={};
 handle["/"]=  requestHandle.start;
 handle["/start"] = requestHandle.start;
