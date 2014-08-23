@@ -1,7 +1,6 @@
 var http= require ("http");
 var url= require ("url");
 
-
 //处理模块定义
 function startgo(route,handle){
     //服务器创建过程的回掉函数，也是程序的入口

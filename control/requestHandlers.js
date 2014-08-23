@@ -1,7 +1,5 @@
 var exec = require("child_process").exec;
 
-
-
 function start(response){
     var date = new Date();
     var seperator1 = "-";
