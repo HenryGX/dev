@@ -5,6 +5,7 @@ var url= require ("url");
 function startgo(route,handle){
     //服务器创建过程的回掉函数，也是程序的入口
     function onRequest(request,response){
+        var postData ="";
         var pathname=url.parse(request.url).pathname;
         if(pathname!="/favicon.ico"){
             var date = new Date();
@@ -14,7 +15,19 @@ function startgo(route,handle){
             console.log("["+(date.getYear() + seperator1 + month + seperator1 + strDate)+"]REQUEST "+pathname);
         }
         //调用路由模块，执行路由模块中的方法
-        route(pathname,handle,response);
+
+
+        request.setEncoding("utf8");
+
+        request.addListener("data",function(postDataChunk){
+            postData += postDataChunk;
+            console.log("Received POST data chunk '"+
+                postDataChunk +"'.");
+        });
+
+        request.addListener("end",function(){
+            route(pathname,handle,response,postData);
+        });
     }
     //创建服务器
     http.createServer(onRequest).listen(8000);
