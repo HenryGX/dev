@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d292c8f4-85e0-40e1-b3d5-ece288bb05cc" name="Default" comment="可以实现上传文件 以及下载文件">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/mime.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/types/mime.types" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/types/node.types" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/mime/test.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="46e57b82-d0a5-448c-adfa-f979dc2ab3d9" name="Rejected commit: Default" comment="可以实现上传文件 以及下载文件">
@@ -68,7 +74,7 @@
       <file leaf-file-name="requestHandlers.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/control/requestHandlers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33174226" vertical-offset="868" max-vertical-offset="2584">
+            <state vertical-scroll-proportion="0.5840336" vertical-offset="868" max-vertical-offset="2584">
               <caret line="53" column="24" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
               <folding />
             </state>
@@ -410,7 +416,11 @@
       <created>1408852828413</created>
       <updated>1408852828413</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="可以实现上传文件 以及下载文件">
+      <created>1408870370318</created>
+      <updated>1408870370318</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -438,8 +448,8 @@
     <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329927" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32846716" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="top" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5927007" sideWeight="0.6663974" order="0" side_tool="true" content_ui="combo" x="18" y="52" width="1259" height="166" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32846716" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="top" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5927007" sideWeight="0.6663974" order="0" side_tool="true" content_ui="combo" x="18" y="52" width="1259" height="166" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32554746" sideWeight="0.49919224" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24798061" sideWeight="0.6908832" order="1" side_tool="false" content_ui="combo" x="486" y="57" width="308" height="685" />
       <window_info id="Remote Host" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2642336" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -639,7 +649,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/control/requestHandlers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33174226" vertical-offset="868" max-vertical-offset="2584">
+        <state vertical-scroll-proportion="0.5840336" vertical-offset="868" max-vertical-offset="2584">
           <caret line="53" column="24" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
           <folding />
         </state>
