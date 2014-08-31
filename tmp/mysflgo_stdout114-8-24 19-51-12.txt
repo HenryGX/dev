@@ -1,0 +1,43 @@
+total 2408
+-rw-r--r--  1 Henry  staff       0 Aug 24 19:50 mysflgo_stderr114-8-24 19-50-50.txt
+-rw-r--r--  1 Henry  staff    3310 Aug 24 19:50 mysflgo_stdout114-8-24 19-50-50.txt
+-rw-r--r--  1 Henry  staff       0 Aug 24 19:50 mysflgo_stderr114-8-24 19-50-17.txt
+-rw-r--r--  1 Henry  staff    3142 Aug 24 19:50 mysflgo_stdout114-8-24 19-50-17.txt
+-rw-r--r--  1 Henry  staff       0 Aug 24 19:49 mysflgo_stderr114-8-24 19-49-25.txt
+-rw-r--r--  1 Henry  staff    2974 Aug 24 19:49 mysflgo_stdout114-8-24 19-49-25.txt
+-rw-r--r--  1 Henry  staff       0 Aug 24 19:48 mysflgo_stderr114-8-24 19-48-15.txt
+-rw-r--r--  1 Henry  staff    2806 Aug 24 19:48 mysflgo_stdout114-8-24 19-48-15.txt
+-rw-r--r--  1 Henry  staff       0 Aug 24 19:47 mysflgo_stderr114-8-24 19-47-40.txt
+-rw-r--r--  1 Henry  staff    2638 Aug 24 19:47 mysflgo_stdout114-8-24 19-47-40.txt
+-rw-r--r--  1 Henry  staff       0 Aug 24 19:44 mysflgo_stderr114-8-24 19-44-30.txt
+-rw-r--r--  1 Henry  staff    2470 Aug 24 19:44 mysflgo_stdout114-8-24 19-44-30.txt
+-rw-r--r--  1 Henry  staff       0 Aug 24 19:36 mysflgo_stderr114-8-24 19-36-18.txt
+-rw-r--r--  1 Henry  staff    2302 Aug 24 19:36 mysflgo_stdout114-8-24 19-36-18.txt
+-rw-r--r--  1 Henry  staff       0 Aug 24 19:35 mysflgo_stderr114-8-24 19-35-7.txt
+-rw-r--r--  1 Henry  staff    1168 Aug 24 19:35 mysflgo_stdout114-8-24 19-35-7.txt
+-rw-r--r--  1 Henry  staff     164 Aug 24 19:34 mysflgo_stderr114-8-24 19-34-55.txt
+-rw-r--r--  1 Henry  staff  204899 Aug 24 19:34 mysflgo_stdout114-8-24 19-34-55.txt
+-rw-r--r--  1 Henry  staff     164 Aug 24 19:34 mysflgo_stderr114-8-24 19-34-25.txt
+-rw-r--r--  1 Henry  staff  204899 Aug 24 19:34 mysflgo_stdout114-8-24 19-34-25.txt
+-rw-r--r--  1 Henry  staff       0 Aug 24 19:33 mysflgo_stderr114-8-24 19-33-11.txt
+-rw-r--r--  1 Henry  staff    1168 Aug 24 19:33 mysflgo_stdout114-8-24 19-33-11.txt
+-rw-r--r--  1 Henry  staff       0 Aug 24 19:33 mysflgo_stderr114-8-24 19-33-6.txt
+-rw-r--r--  1 Henry  staff    1168 Aug 24 19:33 mysflgo_stdout114-8-24 19-33-6.txt
+-rw-r--r--  1 Henry  staff       0 Aug 24 19:32 mysflgo_stderr114-8-24 19-32-50.txt
+-rw-r--r--  1 Henry  staff    1168 Aug 24 19:32 mysflgo_stdout114-8-24 19-32-50.txt
+-rw-r--r--  1 Henry  staff       0 Aug 24 19:31 mysflgo_stderr114-8-24 19-31-54.txt
+-rw-r--r--  1 Henry  staff       0 Aug 24 19:31 mysflgo_stdout114-8-24 19-31-54.txt
+-rw-r--r--  1 Henry  staff       0 Aug 24 19:31 mysflgo_stderr114-8-24 19-31-39.txt
+-rw-r--r--  1 Henry  staff    1168 Aug 24 19:31 mysflgo_stdout114-8-24 19-31-39.txt
+-rw-r--r--  1 Henry  staff       0 Aug 24 19:19 mysflgo_stderr114-8-24 19-19-28.txt
+-rw-r--r--  1 Henry  staff       0 Aug 24 19:19 mysflgo_stdout114-8-24 19-19-28.txt
+-rw-r--r--  1 Henry  staff       0 Aug 24 19:18 mysflgo_stderr114-8-24 19-18-26.txt
+-rw-r--r--  1 Henry  staff       0 Aug 24 19:18 mysflgo_stdout114-8-24 19-18-26.txt
+-rw-r--r--  1 Henry  staff       0 Aug 24 19:16 mysflgo_stderr114-8-24 19-16-40.txt
+-rw-r--r--  1 Henry  staff    1168 Aug 24 19:16 mysflgo_stdout114-8-24 19-16-40.txt
+-rw-r--r--  1 Henry  staff     164 Aug 24 19:16 mysflgo_stderr114-8-24 19-16-28.txt
+-rw-r--r--  1 Henry  staff  204899 Aug 24 19:16 mysflgo_stdout114-8-24 19-16-28.txt
+-rw-r--r--  1 Henry  staff     164 Aug 24 19:07 mysflgo_stderr114-8-24 19-7-4.txt
+-rw-r--r--  1 Henry  staff  204899 Aug 24 19:07 mysflgo_stdout114-8-24 19-7-4.txt
+-rw-r--r--  1 Henry  staff  309400 Aug 24 12:36 test.png
+-rw-r--r--@ 1 Henry  staff   13476 Aug 23 23:47 test.jpeg

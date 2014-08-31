@@ -10,5 +10,6 @@ handle["/upload"] = requestHandle.upload;
 handle["/show"] = requestHandle.show;
 handle["/make_fiel"] = requestHandle.make_fiel;
 handle["/download_img"] = requestHandle.download_img;
+handle["/event"] = requestHandle.event;
 //开启服务器  a
 server.start(route.route, handle);

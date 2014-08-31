@@ -1,0 +1,20 @@
+total 16445
+drwxrwxr-x+ 59 root  admin     2006 Aug 24 18:16 Applications
+drwxr-xr-x+ 62 root  wheel     2108 Aug 23 12:40 Library
+drwxr-xr-x@  2 root  wheel       68 Aug 25  2013 Network
+drwxr-xr-x+  4 root  wheel      136 Jun 28 17:33 System
+drwxr-xr-x   6 root  admin      204 Aug 17 21:36 Users
+drwxrwxrwt@  3 root  admin      102 Aug 24 14:14 Volumes
+drwxr-xr-x@ 39 root  wheel     1326 Jun 28 17:35 bin
+drwxrwxr-t@  2 root  admin       68 Aug 25  2013 cores
+dr-xr-xr-x   3 root  wheel     4257 Aug 24 12:05 dev
+lrwxr-xr-x@  1 root  wheel       11 Jun 28 17:28 etc -> private/etc
+dr-xr-xr-x   2 root  wheel        1 Aug 24 12:05 home
+-rwxr-xr-x@  1 root  wheel  8394000 Jun  4 13:27 mach_kernel
+dr-xr-xr-x   2 root  wheel        1 Aug 24 12:05 net
+drwxr-xr-x@  6 root  wheel      204 Jun 28 17:36 private
+drwxr-xr-x@ 62 root  wheel     2108 Jun 28 17:36 sbin
+lrwxr-xr-x@  1 root  wheel       11 Jun 28 17:28 tmp -> private/tmp
+drwxr-xr-x@ 11 root  wheel      374 Aug 22 19:36 usr
+lrwxr-xr-x@  1 root  wheel       11 Jun 28 17:28 var -> private/var
+lrwxr-xr-x   1 root  wheel       49 Aug 17 16:09 用户信息 -> /Library/Documentation/User Information.localized
