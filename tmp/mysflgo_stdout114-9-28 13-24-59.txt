@@ -1,0 +1,5 @@
+total 3488
+-rw-r--r--  1 Henry  staff        0 Sep 28 13:24 mysflgo_stderr114-9-28 13-24-41.txt
+-rw-r--r--  1 Henry  staff      128 Sep 28 13:24 mysflgo_stdout114-9-28 13-24-41.txt
+-rw-r--r--  1 Henry  staff  1764904 Aug 24 19:53 test.png
+-rw-r--r--@ 1 Henry  staff    13476 Aug 23 23:47 test.jpeg
